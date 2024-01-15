@@ -1,11 +1,8 @@
 <p align="center">  <img src="https://count.getloli.com/get/@Ttrmaniac?theme=gelbooru" </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ttrmaniac" alt="ttrmaniac" /></a> </p>
-
 ----> **Ttrmaniacminecraft@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ttrmaniac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ttrmaniac" height="30" width="40" /></a>
 <a href="https://dev.to/muusybane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muusybane" height="30" width="40" /></a>
