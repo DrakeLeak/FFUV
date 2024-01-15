@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ttrmaniac" alt="ttrmaniac" /></a> </p>
 
-- 🔭 I’m currently working on [Soon](https://github.com/Ttrmaniac/Soon)
+- 🔭 I’m currently working on [Soon](https://github.com/Ttrmaniac/Soon)                         <img src="https://count.getloli.com/get/@Ttrmaniac?theme=gelbooru" />
 
 - 🌱 I’m currently learning **Rust**
 
