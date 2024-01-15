@@ -1,6 +1,5 @@
 <p align="center">  <img src="https://count.getloli.com/get/@Ttrmaniac?theme=gelbooru" </p>
 
-----> **Ttrmaniacminecraft@gmail.com**
 
 
 <p align="left">
